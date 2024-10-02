@@ -1,8 +1,13 @@
 Name: ROHAN KUMAR PANDEY
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS7960
+
 Domain: C++
+
 Duration: September 05 to October 05, 2024
+
 Mentor: SRAVANI GOUNI
 
 Overview of Project:  
