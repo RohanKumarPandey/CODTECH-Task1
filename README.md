@@ -27,4 +27,5 @@ Technology Used:
 Programming Language: C++IDE: Any C++ IDE like Code::Blocks, Dev-C++, or Visual StudioCompiler: A C++ compiler (e.g., GCC or MSVC)
 
 Objective:  
+
 The primary objective of the C++ Temperature Converter project is to:Demonstrate proficiency in basic C++ concepts such as variables, functions, conditionals, and loops.Provide a practical application for mathematical conversions in programming.Improve understanding of user input/output handling and basic error checking.
