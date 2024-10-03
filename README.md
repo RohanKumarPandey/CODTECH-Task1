@@ -8,7 +8,7 @@ Domain: C++
 
 Duration: September 05 to October 05, 2024
 
-Mentor: SRAVANI GOUNI
+
 
 Overview of Project:  ![Screenshot 2024-10-02 151327](https://github.com/user-attachments/assets/4acfeb77-8fa2-41c9-b87b-ea365b78a499)
 
